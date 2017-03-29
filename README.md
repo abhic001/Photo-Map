@@ -18,10 +18,6 @@ Here's a walkthrough of implemented features:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Expected Output
-
-![Image](http://i.imgur.com/WIwqNtn.gif)
-
 ## License
 
     Copyright [2017] [Abhijeet Chakrabarti]
