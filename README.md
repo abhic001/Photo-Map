@@ -10,10 +10,6 @@
 - [x] Implements `LocationsViewController`
 - [x] Placeholders for `PhotoMapViewController` and `FullImageViewController`
 
-## Expected Output
-
-![Image](http://i.imgur.com/WIwqNtn.gif)
-
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented features:
